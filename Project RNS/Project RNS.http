@@ -1,0 +1,6 @@
+@Project_RNS_HostAddress = http://localhost:5064
+
+GET {{Project_RNS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
